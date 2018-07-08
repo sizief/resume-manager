@@ -1,0 +1,93 @@
+
+Abbas M Hosseini
+Ref: C418-504 	Mobile: 98-912-8310655
+Mobile: 98-935-3045178
+abbas_mhosseini@yahoo.com
+Majidieh shomali - Sarbaz Square - Khosrow Abadi St - Qaderi St - Farjadie Kusha Alley - No. 1
+Tehran, Iran
+ 
+SUMMARY
+  	
+Profile:
+	Male , 27 , Single
+Nationality:
+	Iran
+Current Location:
+	Iran, Tehran
+ 
+Current position:
+	Android Developer
+Company:
+	BRTel
+  	(Reporting to: IT Head)
+ 
+Preferred Locations:
+	Tehran, Anywhere outside Iran
+Salary expectation:
+	Not Specified/ Negotiable
+
+WORK EXPERIENCE
+Feb 2015 - Aug 2015 	BRTel 	Tehran , Iran
+  	Android Developer
+  	The qualification and experiences, I have acquired during these times, include but not limited to:
+1- Test Driven Programming in Android ( Android App Test frameworks, features and limitations)
+2- Offline and Online Map usage, different schemes, scenarios, formats, infrastructures
+3- Oauth2 Protocol for implementing safe authentication and authorization (using public APIs provided by big companies like facebook, instagram, foursquare etc)
+4- Smooth Image Loading implementation and Out of memory avoidance and Disk and memory caching with various libs like (Volley, Picasso, Glide etc)
+5- Implementing and taking into account the Material Design Spec aspects (new Google Spec for unifying and providing nice user experience among android and web-based platforms)
+Jun 2013 - Feb 2014 	Japco 	Semnan , Iran
+  	Android Developer
+  	It was a project called "where should you go".
+There in that project, I took into action roughly every major aspect of android programming lang. Like using SQLite database as the internal DB and also connecting and getting information from External database(in our case MySQL) using a RESTful web-service and also getting through the difficulties of Database synchronization process. I also managed to use OFFLINE maps with adjustable resolution hence having the desirable map size. also taking geocodes from GPS sensor and showing in map accordingly.
+I also used all sort of views whenever it needed to make app as userfreindly as possible (like TabViews, ListViews, DropDown lists etc ) and followed certain UI and UX rules and regulations, to lead the user a clear and interesting path toward this app.
+And as for version 2.0 release of the project, name of the project got changed to Kadr:
+Kadr is an advertisement application which introduces potential clients whom on their smart-phone the software is installed to sellers or retailers or service providers who they need to be famous and well-known by public.
+In the technical layer, I implemented a JSON everywhere policy by using a NOSQL software inside android phone (CouchBaseLite) and also a server (CouchBase Server) and of course an interface for taking care of an ultimate robust synchronization policy (CouchBase Sync Gateway). So the software stores data in JSON. It also trasnfer them as JSON and finally store them again on server as JSON format.
+I also implemented a good authentication system using built-in Android Account Manger, not only to be able to remember the clients, but also to making sure of protecting their identity and privacy.
+I'm going to also implement this application via PhoneGap so, I could make extra use of plentiful and robust CSS and JS templates, and also having the same look and feel over all platforms form Android to windows Phone to Mobile Website.
+Jun 2011 - Sep 2011 	Melli Bank 	Semnan , Iran
+  	Internship
+  	Melli bank has one of the wide and rather complex WANs among state administrations. It includes but not limited to Fiber Optic Network devices, Firewalls, giving support to ATMs, employing various Server types, using Microsoft and Cisco and also other data network device provider brands such as Juniper and Huawei.
+I had a 3month length internship, gaining experience there.
+EDUCATION
+Sep 2013 - 	Iran University of Science and Technology (Elmo Sanat) 	Tehran , Iran
+  	IT/ Secure Telecommunication, Master (MSc/MA), GPA 17.23
+Sep 2006 - Aug 2012 	Semnan 	Semnan , Iran
+  	Electronics Eng, Bachelor(BSc/BA), GPA 15.43 / 20
+OTHER CERTIFICATES
+2012 	TOEFL (IBT) 	ETS , Iran
+2011 	CCNA 	Deparan , Iran
+IT Skills
+Web programming & development
+JavaScript / JQuery / JQuery Mobile / Node.js
+	Intermediate
+Non-web programming languages
+Android Programming
+	Expert
+NOSQL(CouchBase)/ MYSQL
+	Intermediate
+Java / C / C++
+	Advanced
+Mobile Security / Network Security / Cryptography
+	Advanced
+Machine Learning / Data Mining
+	Advanced
+LANGUAGES
+  	
+English
+	Fluent
+  	
+Persian (Farsi)
+	Native
+COMMENTS
+I'm currently working on Android malware detection which gives insight about Android Security issues and Android operating system in general.
+Due to my current field of study (Secure Telecom) I'm passing and gaining more and more familiarity with security issues like cryptography, network security and so on.
+My bachelor thesis title was "Video Traffic Prediction via Neural Networks" which I managed to defend in "English".
+
+I describe myself possessing below adjectives:
+out-of-the-box thinker
+team-worker
+difficulty handler
+win-win situation maker
+good negotiator
+
